@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# SportSync
+# LITERATE LIFE
 
 SportSync is a modern sports event management and scheduling platform that helps organize and coordinate sports activities, matches, and tournaments.
 
@@ -9,8 +9,8 @@ SportSync is a modern sports event management and scheduling platform that helps
 - Event scheduling and management
 - Team creation and management
 - Real-time notifications
-- Tournament brackets
-- Score tracking
+- Competitions
+- Books tracking
 
 ## Authentication Flow
 
