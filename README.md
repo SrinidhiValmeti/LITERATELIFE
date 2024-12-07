@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SportSync
 
 SportSync is a modern sports event management and scheduling platform that helps organize and coordinate sports activities, matches, and tournaments.
@@ -353,3 +354,6 @@ sequenceDiagram
 - Database query optimization
 
 // Rest of the README content continues...
+=======
+# LITERATELIFE
+>>>>>>> 7a435c6c81f2b64ed73bf29bc0cd392510a500d3
