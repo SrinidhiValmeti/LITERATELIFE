@@ -1,13 +1,12 @@
 <<<<<<< HEAD
-# LITERATE LIFE
+# LITERATELIFE
+Discover amazing books in our library using Literatelife
 
-SportSync is a modern sports event management and scheduling platform that helps organize and coordinate sports activities, matches, and tournaments.
 
 ## Features
 
 - User authentication and authorization
 - Event scheduling and management
-- Team creation and management
 - Real-time notifications
 - Competitions
 - Books tracking
